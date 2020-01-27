@@ -1,1 +1,1 @@
-# details
+# details fir the application deployment
