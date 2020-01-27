@@ -1,0 +1,7 @@
+#inventory file to keep your hosts information
+[development]
+server1
+server2
+[production]
+server_prod1
+server_prod2
