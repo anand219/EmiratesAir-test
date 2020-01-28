@@ -1,5 +1,5 @@
 ---
-  - hosts: tomcatServer
+  - hosts: {{ target }}
     vars:
     - warName: helloworld.war
     - warRemotePath: /path/to/put/war
