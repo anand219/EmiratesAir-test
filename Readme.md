@@ -19,4 +19,8 @@ And take the debug code and save it, we need this key to access jenkins first ti
 
 With public ip or Dns service from Cloud with 8080 port you can access the application.
 
+To Create the Application struture i have implimented terraform with LB configutartions.
 
+Excute terraform apply under the folde terraform_application
+
+And use the Jenkins pipe with branching strategies to deploy the code into into environment either development and prodcution,
