@@ -1,4 +1,7 @@
 #inventory file to keep your hosts information
+[Jenkins]
+Server1
+
 [development]
 server1
 server2
